@@ -5,7 +5,8 @@ int main()
 
 {
     int n;
-    cin>>n;
+    cin>>n; 
+//     taking input
 
     int arr[n];
     for(int i=0;i<n;i++){
